@@ -64,19 +64,10 @@
 ---
 
 <details open>
-<summary><h3>📊 GitHub Stats & Activity</h3></summary>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=mayankdave255-coder&theme=darcula&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mayankdave255-coder&theme=darcula&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
-</p>
+<summary><h3>📊 GitHub Streak</h3></summary>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mayankdave255-coder&theme=darcula&hide_border=false" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankdave255-coder&theme=react-dark&hide_border=true" alt="Activity Graph"/>
 </p>
 
 </details>
